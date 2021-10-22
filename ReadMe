@@ -12,6 +12,8 @@ Dependencies:
 Run the code:
 Example: python3 Main.py EGO-2
 
+NOTE: The zip-file in the Data folder needs to be unzipped first
+
 ---------------------------------------------------------
 
 Additional arguments are as follows:
