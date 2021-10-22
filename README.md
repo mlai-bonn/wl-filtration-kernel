@@ -9,10 +9,11 @@
 ## Run the code:
 Example: python3 Main.py EGO-2
 
-NOTE: files in data folder need to be unzipped first
+*NOTE*: files in data folder need to be unzipped first
 
 
 Additional arguments are as follows:
+```
 positional arguments:
   db                    	Dataset name
 
@@ -23,4 +24,4 @@ optional arguments:
   --gamma GAMMA [GAMMA ...]	List of gammas            
   --c C [C ...]         	List of Cs (SVM parameter)
   --jobs JOBS           	Number of parallel processes
-
+  ```
