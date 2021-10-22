@@ -1,20 +1,16 @@
-Weisfeiler-Lehman Filtration Kernel
----------------------------------------------------------
+#Weisfeiler-Lehman Filtration Kernel
 
-Dependencies:
+##Dependencies:
 - tqdm==4.28.1
 - networkx==2.4
 - numpy==1.19.1
 - scikit_learn==0.24.2
 
----------------------------------------------------------
-
-Run the code:
+##Run the code:
 Example: python3 Main.py EGO-2
 
 NOTE: The zip-file in the Data folder needs to be unzipped first
 
----------------------------------------------------------
 
 Additional arguments are as follows:
 positional arguments:
@@ -27,5 +23,3 @@ optional arguments:
   --gamma GAMMA [GAMMA ...]	List of gammas            
   --c C [C ...]         	List of Cs (SVM parameter)
   --jobs JOBS           	Number of parallel processes
-
-
