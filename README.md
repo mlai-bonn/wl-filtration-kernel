@@ -1,12 +1,12 @@
 # Weisfeiler-Lehman Filtration Kernel
 
-##Dependencies:
+## Dependencies:
 - tqdm==4.28.1
 - networkx==2.4
 - numpy==1.19.1
 - scikit_learn==0.24.2
 
-##Run the code:
+## Run the code:
 Example: python3 Main.py EGO-2
 
 NOTE: files in data folder need to be unzipped first
